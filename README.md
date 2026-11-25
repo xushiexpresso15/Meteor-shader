@@ -1,3 +1,5 @@
+![Meteor Shader](assets/banner.png)
+
 # Meteor Shader
 
 Official shaders built for **Metality Engine** on Apple Silicon Macs (`Minecraft 26.3`).
