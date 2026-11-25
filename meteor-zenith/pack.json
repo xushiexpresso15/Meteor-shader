@@ -1,0 +1,13 @@
+{
+  "id": "meteor-zenith",
+  "name": "Meteor Zenith",
+  "version": "0.1.0-beta.1",
+  "channel": "beta",
+  "edition": "Apple Silicon Ray Tracing (Metal Hardware BVH M3-M5 + Voxel DDA M1-M2 + 1-Bounce Colored GI)",
+  "format": "aperture-ts-slang",
+  "engineMinVersion": "0.1.0-beta.1",
+  "minecraftVersions": ["26.3"],
+  "profiles": ["LOW", "MEDIUM", "HIGH", "ULTRA"],
+  "authors": ["Metality Team"],
+  "license": "Apache-2.0"
+}
